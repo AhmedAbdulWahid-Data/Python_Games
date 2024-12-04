@@ -4,13 +4,13 @@ Welcome to the **Python Games** repository – the ultimate collection of 5 epic
 
 🕹️ **Games Included:**
 
-### - **Tetris** (The iconic block-stacking puzzle)
+- **Tetris** (The iconic block-stacking puzzle)
   
-### - **Space Invaders** (Defend the Earth from alien invaders!)
+- **Space Invaders** (Defend the Earth from alien invaders!)
+
+- **Pacman** (Munch your way through mazes, avoiding ghosts!)
   
-### - **Pacman** (Munch your way through mazes, avoiding ghosts!)
+- **Chess** (Checkmate your opponent in this classic strategy game)
   
-### - **Chess** (Checkmate your opponent in this classic strategy game)
-  
-### - **Breakout** (Break those bricks and unleash the fun!)
+- **Breakout** (Break those bricks and unleash the fun!)
 
