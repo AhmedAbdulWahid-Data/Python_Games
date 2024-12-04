@@ -1,6 +1,7 @@
 # 🏆 Ultimate Chess Game in Python 🏆
 
 Welcome to the **Ultimate Chess Game** built with **Pygame**! 🚀 Get ready to experience the game of kings and queens like never before. With a fully interactive board and smooth gameplay, this chess game lets you dive deep into your strategic mind and challenge your friends. 🧠💥
+
 ---
 
 
